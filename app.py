@@ -11,7 +11,6 @@ app.config.from_object(Config)
 CORS(app)
 JWTManager(app)
 
-print("DB URL:", app.config["SQLALCHEMY_DATABASE_URI"])
 db.init_app(app)
 
 
