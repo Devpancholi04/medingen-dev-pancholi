@@ -4,7 +4,7 @@
 [![Default Branch](https://img.shields.io/badge/Branch-main-green?style=flat-square)](https://github.com/Devpancholi04/medingen-dev-pancholi)
 
 ## Link for my Self Introduction Video
-[![Introduction Video](https://img.shields.io/badge/Watch-Video-red?style=flat-square&logo=youtube)]( link )
+[![Introduction Video](https://img.shields.io/badge/Watch-Video-red?style=flat-square&logo=youtube)]( https://drive.google.com/file/d/18ZCkpb_uUNmLhejjTO9fy6ccCpKvZaLK/view?usp=sharing )
 
 ## Project Structure
 
@@ -18,7 +18,7 @@ medingen-dev-pancholi/
 ├── .gitignore
 ├── app.py
 ├── config.py
-└── medingen.sql
+├── medingen.sql
 ├── models.py
 ├── requirements.txt
 ├── README.md
